@@ -53,16 +53,16 @@ body{
     border-bottom: 2px solid #1f1f1f;
 }
 
-.inicio .twitter a{
+.inicio .github a{
     text-decoration: none;
-    color: #0059ff;
+    color: #181818;
     display: inline-block;
     margin: auto;
 }
 
-.inicio .youtube a{
+.inicio .linkedin a{
     text-decoration: none;
-    color: #ff0000;
+    color: #008cff;
     display: inline-block;
     margin: auto;
 }
